@@ -14,7 +14,7 @@ Use first order right hand rule to approximate the inetegral of the curvature.
 Use second order trapezoidal rule to approximate the integral of l1(s) down each path.
 Use n gradient paths with n2 points starting on interior circle of radius intradius.
 
-function errortable()
+errortable()
 Create a table of relative error and order of convergence for the method.
 Use 10 gradient paths. Very n the number of points on each path.
 Fix radius of interior circle where paths begin at .05.
